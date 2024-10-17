@@ -8,7 +8,7 @@
         "dev": "nodemon index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Jigyansu Nanda",
+    "author": "Shivani",
     "license": "ISC",
     "dependencies": {
         "bull": "^4.10.2",
